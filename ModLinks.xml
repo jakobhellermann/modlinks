@@ -4,6 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="https://github.com/HollowKnight-Modding/HollowKnight.ModLinks/HollowKnight.ModManager https://raw.githubusercontent.com/HollowKnight-Modding/HollowKnight.ModLinks/main/Schemas/ModLinks.xml">
     <Manifest>
+        test
         <Name>Input Display</Name>
         <Description>Shows an input display in the bottom right corner. Compatible with both controller and mouse/keyboard.</Description>
         <Version>1.0.0.0</Version>
